@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'voyager-appservice'
           slot-name: 'az104joecaddaslot'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7537B35FBB6349A0BD5E4639CD6BABA4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C944ED2F27A34E1DBCED5155207B3133 }}
